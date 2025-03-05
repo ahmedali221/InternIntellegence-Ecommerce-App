@@ -25,7 +25,6 @@ This project is an e-commerce mobile application built using the Flutter framewo
 
 * **Flutter:** The primary framework for building the app.
 * **Dart:** The programming language used.
-* **[List any other packages used - e.g., http, provider, sqflite, firebase_core, etc.]**
 
 
 ## Future Improvements
